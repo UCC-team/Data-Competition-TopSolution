@@ -50,12 +50,11 @@ Data competition 数据竞赛网站整理
 14. T-Brain AI实战吧  
    Rank1: https://tbrain.trendmicro.com.tw/
    
-15. 2016 ccf-农产品价格预测  
-   Rank2: https://github.com/xing89qs/CCF_Product   
-   Rank35: https://github.com/wqlin/ccf-price-prediction 
+15. 工业  
+   Rank2: 
  
-16. 2016 ccf-客户用电异常  
-   Rank4: https://github.com/AbnerYang/2016CCF-StateGrid 
+16. 讯飞  
+   Rank4: 
    
 17. BdRace数睿思_数据挖掘竞赛平台 
    Rank1: http://www.tipdm.org/bdrace/index.html
