@@ -28,8 +28,7 @@ Data competition 数据竞赛网站整理
    地址：https://tianchi.aliyun.com/
    
 8. JData 
-   Rank1：https://jdata.jd.com/index.html
-   
+   地址：https://jdata.jd.com/index.html
    地址：https://jdder.jd.com
           
 9. Kesci 
