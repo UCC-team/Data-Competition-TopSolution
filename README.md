@@ -29,6 +29,7 @@ Data competition 数据竞赛网站整理
    
 8. JData 
    Rank1：https://jdata.jd.com/index.html
+   
    地址：https://jdder.jd.com
           
 9. Kesci 
@@ -41,8 +42,7 @@ Data competition 数据竞赛网站整理
    地址：https://challenger.ai/
    
 12. 上海SODA大赛
-   地址：http://soda.shdataic.org.cn/
-          
+   地址：http://soda.shdataic.org.cn/          
 
 13. 拍拍贷魔镜杯  
    地址: https://ai.ppdai.com/mirror/show
@@ -50,11 +50,11 @@ Data competition 数据竞赛网站整理
 14. T-Brain AI实战吧  
    地址: https://tbrain.trendmicro.com.tw/
    
-15. 工业  
-   地址: 
+15. 工业大数据产业创新平台  
+   地址: http://www.industrial-bigdata.com/
  
-16. 讯飞  
-   地址: 
+16. 讯飞 iFLYTEK A.I.
+   地址: http://challenge.xfyun.cn/2019/gamelist
    
 17. BdRace数睿思_数据挖掘竞赛平台 
    地址: http://www.tipdm.org/bdrace/index.html
@@ -74,7 +74,11 @@ Data competition 数据竞赛网站整理
 22. 中国医疗器械创新创业大赛 
    地址: http://www.cmddsc.cn/
 
-
+国外：
+1.  Kaggle
+   地址: www.kaggle.com
+2.  numer.ai
+   地址: https://numer.ai/
 
    
 
@@ -118,12 +122,4 @@ http://t.cn/ReIJOXK
 
 【计算机视觉“小众”数据集集锦】《Rare Datasets for Computer Vision Every Machine Learning Expert Must Work With》 http://t.cn/EZE9Vb7
 
-   
-**PS：**
- 特别感谢金老师对整理比赛开源已做出的贡献,特别是在2016年的ccf大赛中
- 团队联系方式：  
-      Smile  qq:240485545  Email:smile.xuhc@gmail.com   
-      PUSH  qq:1471386635 Email:1471386635@qq.com   
-      dive2space qq: 1124361357 Email:dive2space@qq.com  
-      Jean_V  qq:2398963799  Email:jianwu925@qq.com
       
